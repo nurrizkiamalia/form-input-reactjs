@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "amalia",
+      "email": "rizkiamel9@gmail.com",
+      "password": "amalia123"
+    },
+    {
+      "id": 2,
+      "name": "lili",
+      "email": "lilia@gmail.com",
+      "password": "lili111"
+    },
+    {
+      "id": "1d2b",
+      "name": "rizkiamalia",
+      "email": "rizki@gmail.com",
+      "password": "rizki1234"
+    },
+    {
+      "id": "10e0",
+      "name": "indahindahe",
+      "email": "indah123@gmail.com",
+      "password": "indahindahe"
+    }
+  ]
+}
